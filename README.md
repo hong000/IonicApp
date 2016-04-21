@@ -14,5 +14,7 @@
 <h3>Support both iOS and Android platforms</h3><br />
 <img src="https://github.com/hong000/IonicApp/blob/master/Platforms.gif" alt="platforms gif">
 
+<a href = "http://webpage.pace.edu/yh19243n/MedicineApp/www/#/tab/dash" target="_blank" style="text-decoration: underline; ">Click to view the app</a>
+
 </body>
 </html>
